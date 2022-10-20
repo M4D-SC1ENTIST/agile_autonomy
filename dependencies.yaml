@@ -73,7 +73,7 @@ repositories:
     version: main
   rpg_mpl_ros:
     type: git
-    url: git@github.com:uzh-rpg/rpg_mpl_ros.git
+    url: git@github.com:M4D-SC1ENTIST/rpg_mpl_ros.git
     version: master
   assimp_catkin:
     type: git
